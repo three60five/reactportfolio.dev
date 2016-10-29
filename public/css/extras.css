@@ -1,0 +1,450 @@
+.caramel-gradient {
+  background: #D1913C; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #D1913C, #FFD194); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #D1913C, #FFD194); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.caramel-shadow {
+  text-rendering: optimizeLegibility;
+  letter-spacing: .15em;
+  color: #131313;
+  text-shadow:
+  3px -6px 0px #3F3E3E,
+  2px -4px 0px #3F3E3E,
+  1px -2px 0px #3F3E3E,
+  0px -0px 0px #3F3E3E,
+  -2px 2px 2px rgba( 207, 135, 39, .5 ),
+  -4px 4px 2px rgba( 207, 135, 39, .5 ),
+  -6px 6px 2px rgba( 207, 135, 39, .5 ),
+  -8px 8px 2px rgba( 207, 135, 39, .5 ),
+  -10px 10px 2px rgba( 207, 135, 39, .5 ),
+  -12px 12px 2px rgba( 207, 135, 39, .5 ),
+  -14px 14px 2px rgba( 207, 135, 39, .5 ),
+  -16px 16px 2px rgba( 207, 135, 39, .5 ),
+  -18px 18px 2px rgba( 207, 135, 39, .5 ),
+  -20px 20px 2px rgba( 207, 135, 39, .5 ),
+  -22px 22px 2px rgba( 207, 135, 39, .5 )
+}
+
+.dark-creamsicle {
+  color: #ff4b1f;
+}
+
+.light-creamsicle {
+  color: #ff9068;
+}
+
+.creamsicle {
+  color: #ff9068;
+  fill: #ff9068;
+}
+
+.bg-creamsicle {
+  background-color: #ff9068;
+}
+
+.hover-bg-creamsicle:hover { background-color: #ff9068; }
+.hover-bg-creamsicle:focus { background-color: #ff9068; }
+
+.creamsicle-gradient {
+  background: #ff4b1f; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #ff4b1f , #ff9068); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #ff4b1f , #ff9068); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.mix-blend {
+  mix-blend-mode: multiply;
+}
+
+.creamsicle-shadow {
+  text-rendering: optimizeLegibility;
+  letter-spacing: .15em;
+  color: #131313;
+  text-shadow:
+  3px -6px 0px #3F3E3E,
+  2px -4px 0px #3F3E3E,
+  1px -2px 0px #3F3E3E,
+  0px -0px 0px #3F3E3E,
+  -2px 2px 2px rgba( 255, 75, 30, .5 ),
+  -4px 4px 2px rgba( 255, 75, 30, .5 ),
+  -6px 6px 2px rgba( 255, 75, 30, .5 ),
+  -8px 8px 2px rgba( 255, 75, 30, .5 ),
+  -10px 10px 2px rgba( 255, 75, 30, .5 ),
+  -12px 12px 2px rgba( 255, 75, 30, .5 ),
+  -14px 14px 2px rgba( 255, 75, 30, .5 ),
+  -16px 16px 2px rgba( 255, 75, 30, .5 ),
+  -18px 18px 2px rgba( 255, 75, 30, .5 ),
+  -20px 20px 2px rgba( 255, 75, 30, .5 ),
+  -22px 22px 2px rgba( 255, 75, 30, .5 )
+}
+
+.limeade-gradient {
+  background: #76b852; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #76b852 , #8DC26F); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #76b852 , #8DC26F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.limeade-shadow {
+  text-rendering: optimizeLegibility;
+  letter-spacing: .15em;
+  color: #131313;
+  text-shadow:
+  3px -6px 0px #3F3E3E,
+  2px -4px 0px #3F3E3E,
+  1px -2px 0px #3F3E3E,
+  0px -0px 0px #3F3E3E,
+  -2px 2px 2px rgba( 104, 162, 72, .5 ),
+  -4px 4px 2px rgba( 104, 162, 72, .5 ),
+  -6px 6px 2px rgba( 104, 162, 72, .5 ),
+  -8px 8px 2px rgba( 104, 162, 72, .5 ),
+  -10px 10px 2px rgba( 104, 162, 72, .5 ),
+  -12px 12px 2px rgba( 104, 162, 72, .5 ),
+  -14px 14px 2px rgba( 104, 162, 72, .5 ),
+  -16px 16px 2px rgba( 104, 162, 72, .5 ),
+  -18px 18px 2px rgba( 104, 162, 72, .5 ),
+  -20px 20px 2px rgba( 104, 162, 72, .5 ),
+  -22px 22px 2px rgba( 104, 162, 72, .5 )
+}
+
+.limeade {
+  color: #76b852;
+  fill: #76b852;
+}
+
+.bg-limeade {
+  background: #76b852;
+}
+
+.bg-sanjuanislands {
+  background-color: #085078;
+}
+
+.bg-light-sanjuanislands {
+  background-color: #85D8CE;
+}
+
+.b--light-sanjuanislands {
+  border-color: #85D8CE;;
+}
+
+.sanjuanislands {
+  color: #085078;
+  fill: #085078;
+}
+
+.light-sanjuanislands {
+  color: #85D8CE;
+}
+
+.hover-light-sanjuanislands:hover { color: #85D8CE; }
+.hover-light-sanjuanislands:focus { color: #85D8CE; }
+
+.sanjuanislands-gradient {
+  background: #085078; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #288076 , #85D8CE); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #288076 , #85D8CE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.sanjuanislands-shadow {
+  text-rendering: optimizeLegibility;
+  letter-spacing: .15em;
+  color: #131313;
+  text-shadow:
+  3px -6px 0px #3F3E3E,
+  2px -4px 0px #3F3E3E,
+  1px -2px 0px #3F3E3E,
+  0px -0px 0px #3F3E3E,
+  -2px 2px 2px rgba( 40,128,113, .3 ),
+  -4px 4px 2px rgba( 40,128,113, .3 ),
+  -6px 6px 2px rgba( 40,128,113, .3 ),
+  -8px 8px 2px rgba( 40,128,113, .3 ),
+  -10px 10px 2px rgba( 40,128,113, .3 ),
+  -12px 12px 2px rgba( 40,128,113, .3 ),
+  -14px 14px 2px rgba( 40,128,113, .3 ),
+  -16px 16px 2px rgba( 40,128,113, .3 ),
+  -18px 18px 2px rgba( 40,128,113, .3 ),
+  -20px 20px 2px rgba( 40,128,113, .3 ),
+  -22px 22px 2px rgba( 40,128,113, .3 )
+}
+
+
+.coolgray-gradient {
+  background: #8e9eab; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #8e9eab , #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #8e9eab , #eef2f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.coolwhite-gradient {
+  background: #ECE9E6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #ECE9E6 , #FFFFFF); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #ECE9E6 , #FFFFFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.lightpurple-gradient {
+  background: #F2F2F2; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F2F2F2, #D6D6E6); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F2F2F2, #D6D6E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.coolpurple-gradient {
+  background: #2A2542; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #e8e3ed ,#aeaded); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #e8e3ed, #aeaded); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.coolpeach-gradient {
+  background: #FFC79D; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFC79D, #F69B57); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFC79D, #F69B57); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.lightpeach-gradient {
+  background: #FFF3EA; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFF3EA, #FFC79D); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFF3EA, #FFC79D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.coolblue-gradient {
+  background: #141E30; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #141E30 , #243B55); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #141E30 , #243B55); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.coolblack-gradient {
+  background: #7d7e7d; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to , #7d7e7d, #0e0e0e); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #7d7e7d, #0e0e0e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bg-lightpeach {
+  background-color: #fff3ea;
+}
+
+.bg-lightsky {
+  background-color: #ECFFEB;
+}
+
+.pictureframe {
+  border: 4px solid #333;
+  box-shadow:
+  4px -8px 0px #333,
+  3px -6px 0px #333,
+  2px -4px 0px #333,
+  1px -2px 0px #333,
+  0px -0px 0px #333,
+  -2px 2px 2px #eef2f3,
+  -4px 4px 2px #eef2f3,
+  -6px 6px 2px #eef2f3,
+  -8px 8px 2px #eef2f3,
+  -10px 10px 2px #eef2f3,
+  -12px 12px 2px #eef2f3,
+  -14px 14px 2px #eef2f3,
+  -16px 16px 2px #eef2f3,
+  -18px 18px 2px #eef2f3,
+  -20px 20px 2px #eef2f3,
+  -22px 22px 2px #eef2f3
+}
+
+.coolbackground {
+  overflow: hidden;
+  -webkit-transform: skewY(-5deg);
+  transform: skewY(-5deg);
+}
+
+.bg-koko-30 {
+  background-color: rgba(207, 135, 39, 0.3);
+}
+
+.play {
+  color: rgba(207, 135, 39, 0.3);
+}
+
+.hover-bg-koko:hover { background-color: #FFD194; }
+.hover-bg-koko:focus { background-color: #FFD194; }
+
+.caramel {
+  color: #D1913C;
+  fill: #D1913C;
+}
+
+.bg-caramel {
+  background: #D1913C;
+}
+
+/* Outline Out */
+.hvr-outline-out-caramel {
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+.hvr-outline-out-caramel:before {
+  content: '';
+  position: absolute;
+  border: #D1913C solid 2px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: top, right, bottom, left;
+  transition-property: top, right, bottom, left;
+}
+.hvr-outline-out-caramel:hover:before, .hvr-outline-out-caramel:focus:before, .hvr-outline-out-caramel:active:before {
+  top: -8px;
+  right: -8px;
+  bottom: -8px;
+  left: -8px;
+}
+
+/* Outline Out */
+.hvr-outline-out-creamsicle {
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+.hvr-outline-out-creamsicle:before {
+  content: '';
+  position: absolute;
+  border: #ff9068 solid 2px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: top, right, bottom, left;
+  transition-property: top, right, bottom, left;
+}
+.hvr-outline-out-creamsicle:hover:before, .hvr-outline-out-creamsicle:focus:before, .hvr-outline-out-creamsicle:active:before {
+  top: -8px;
+  right: -8px;
+  bottom: -8px;
+  left: -8px;
+}
+
+/* Outline Out */
+.hvr-outline-out-limeade {
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+.hvr-outline-out-limeade:before {
+  content: '';
+  position: absolute;
+  border: #76b852 solid 2px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: top, right, bottom, left;
+  transition-property: top, right, bottom, left;
+}
+.hvr-outline-out-limeade:hover:before, .hvr-outline-out-limeade:focus:before, .hvr-outline-out-limeade:active:before {
+  top: -8px;
+  right: -8px;
+  bottom: -8px;
+  left: -8px;
+}
+
+/* Outline Out */
+.hvr-outline-out-sanjuanislands {
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+}
+
+.hvr-outline-out-sanjuanislands:before {
+  content: '';
+  position: absolute;
+  border: #085078 solid 2px;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: top, right, bottom, left;
+  transition-property: top, right, bottom, left;
+}
+.hvr-outline-out-sanjuanislands:hover:before, .hvr-outline-out-sanjuanislands:focus:before, .hvr-outline-out-sanjuanislands:active:before {
+  top: -8px;
+  right: -8px;
+  bottom: -8px;
+  left: -8px;
+}
+
+.icon {
+  height: 82px;
+}
+
+.angle {
+  margin-top: -16rem;
+  z-index: -10;
+}
+
+.home-angle-height {
+  height: 53rem;
+}
+
+.work-angle-height {
+  height: 33rem;
+}
+
+.contact-angle-height {
+  height: 38rem;
+}
+
+.play-angle-height {
+  height: 28rem;
+}
+
+.work2-angle {
+  margin-top: -10rem;
+  z-index: -30;
+}
+
+.work2-angle-height {
+  height: 55rem;
+}
+
+.home-playground-background {
+  background: url(../img/san_juan_island.jpg) no-repeat top;
+}
+
+.home-playground-text {
+   font-size: 10vmin;
+}
+
+:focus {
+  outline:0 !important;
+}
+
+.less-dim { opacity: 1; -webkit-transition: opacity .15s ease-in; transition: opacity .15s ease-in; }
+.less-dim:hover, .dim:focus { opacity: .8; -webkit-transition: opacity .15s ease-in; transition: opacity .15s ease-in; }
+.less-dim:active { opacity: .8; -webkit-transition: opacity .15s ease-out; transition: opacity .15s ease-out; }
