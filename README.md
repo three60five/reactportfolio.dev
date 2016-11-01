@@ -1,4 +1,4 @@
-## react.three60five.common
+## react.three60five.com
 
 Welcome to the portfolio site of David Allen coded as a simple Single Page Application using React and React-Router. I created this version of the portfolio after I coded it using static html and css. I wanted to learn the basics of React and experiment with turning html+css patterns into react components.
 
